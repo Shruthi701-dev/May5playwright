@@ -1,0 +1,17 @@
+{
+    "env": "qa",
+    "qa":{
+        "web_url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+        "api_baseurl": "https://opensource-demo.orangehrmlive.com",
+        "username": "shruthi",
+        "pwd": "pass1234"
+
+    },
+    "uat":{
+        "web_url": "https://opensource-demo-uat.orangehrmlive.com/web/index.php/auth/login",
+        "api_baseurl": "https://opensource-demo-uat.orangehrmlive.com",
+        "username": "user01",
+        "pwd": "uatpass1234"
+
+    }
+}
